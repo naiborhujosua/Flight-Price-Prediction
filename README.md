@@ -1,1 +1,2 @@
 # Flight-Price-Prediction
+This Projects is used to predict the flight prices. We will use Flight Price Dataset provided by Kaggle Flight Price. This dataset consists of 10683 records with 13 columns that explain about the flight in India by some Indian and foreign Airlines in 2019. We will analyze this dataset using Machine learning techniques in order to predict the flight ticket price based on the features provided in the columns of the dataset. We will begin the Data Science Life Cycle to process the data
