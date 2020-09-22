@@ -31,12 +31,13 @@ The main findings of the code can be found at the post available [here](https://
 ## 4. Results
 
 #### Feature correlation
-![Feature correlation](https://github.com/pranaymodukuru/Concrete-compressive-strength/blob/master/imgs/corr.png)
+![Feature correlation](https://github.com/naiborhujosua/Flight-Price-Prediction/blob/master/Feature_correlation.jpeg)
 #### Feature importance
-![Feature importance](https://github.com/pranaymodukuru/Concrete-compressive-strength/blob/master/imgs/feat_imp.png)
-#### Final Comparison
-![Final Comparison](https://github.com/pranaymodukuru/Concrete-compressive-strength/blob/master/imgs/comparision.png)
-
+![Feature importance](https://github.com/naiborhujosua/Flight-Price-Prediction/blob/master/Feature_Importance.jpeg)
+#### Accuracy before Hyperparameter Tuning
+![Final Comparison](https://github.com/naiborhujosua/Flight-Price-Prediction/blob/master/accuracy_before_tuning.jpeg)
+#### Accuracy After Hyperparameter Tuning
+![Final Comparison](https://github.com/naiborhujosua/Flight-Price-Prediction/blob/master/accuracy_after_tuning.jpeg)
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
