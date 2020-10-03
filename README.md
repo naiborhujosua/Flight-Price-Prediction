@@ -17,7 +17,7 @@ This Project is used to predict the flight prices. We will use Flight Price Data
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here](https://medium.com/@naiborhujosua/predicting-airfare-price-using-machine-learning-techniques-bf3a13ad07d1).
+The main findings of the code can be found at the post available on my medium [here](https://medium.com/@naiborhujosua/predicting-airfare-price-using-machine-learning-techniques-bf3a13ad07d1).
 
 ## 3. Modelling and Evaluation
 
