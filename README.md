@@ -1,7 +1,6 @@
 <img src="http://cliparts.co/cliparts/6iy/oBb/6iyoBbdpT.gif"/>
-# Flight-Price-Prediction
 
-### Table of Contents
+### Flight-Price-Prediction Table of Contents
 
 1. [Project Motivation](#motivation)
 2. [File Descriptions](#files)
